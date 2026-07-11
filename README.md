@@ -59,16 +59,6 @@ Customer Churn Prediction/
 └── README.md
 ```
 
-## Screenshots
-
-Add screenshots after launching the app:
-
-- Executive overview dashboard
-- Single-customer prediction page
-- Model performance dashboard
-- Business insights dashboard
-- Batch prediction workflow
-
 ## Installation
 
 ```bash
@@ -108,15 +98,6 @@ streamlit run app/Home.py
 - Business insights dashboard with customer statistics, churn segments, and recommendations
 - Centralized configuration, logging, error handling, and reusable Streamlit components
 
-## Deployment
-
-The project is ready for Streamlit Cloud. Ensure `requirements.txt` is committed and the app entry point is:
-
-```text
-app/Home.py
-```
-
-Run `python -m src.train` locally before deployment so the `models/` and `reports/` artifacts are available.
 
 ## Future Improvements
 
