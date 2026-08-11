@@ -107,10 +107,6 @@ streamlit run app/Home.py
 - Add authentication for internal business use.
 - Add a FastAPI service layer for production API deployment.
 
-## License
-
-MIT License
-
 ## Author
 
 Tanmay
