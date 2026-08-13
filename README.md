@@ -2,7 +2,7 @@
 
 A production-style machine learning portfolio project for predicting telecom customer churn, exploring customer behavior, and translating model outputs into retention actions.
 
-## Project Overview
+## Project Overview and introduction
 
 This project uses a Scikit-learn pipeline to train a churn classifier and a Streamlit analytics app to serve business users. The application supports single-customer prediction, batch CSV scoring, model performance review, customer data exploration, and business insight dashboards.
 
